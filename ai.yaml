@@ -10,7 +10,6 @@ payload:
   # Perplexity
   - 'perplexity.ai'
   # Claude
-  - 'console.anthropic.com'
   - 'anthropic.com'
   - 'claude.ai'
   # Google Gemini
