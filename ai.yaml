@@ -1,11 +1,12 @@
 payload:
   - openai.com
   - oaistatic.com
-  - oaiusercontent.com
+  - sora.com
   - chatgpt.com
   - chat.com
   - ai.com
   - x.ai
+  - openai
   - perplexity.ai
   - anthropic.com
   - claude.ai
